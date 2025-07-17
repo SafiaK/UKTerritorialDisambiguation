@@ -27,7 +27,7 @@ TerritorialDisambiguation/
 ## Setup Instructions
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/YOUR-USERNAME/TerritorialDisambiguation.git
+   git clone https://github.com/SafiaK/UKTerritorialDisambiguation.git
    cd TerritorialDisambiguation
    ```
 2. **Install dependencies**
