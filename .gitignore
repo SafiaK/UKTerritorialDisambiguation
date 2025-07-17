@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and results
+/data/
+/results/
+*.xlsx
+*.json
+*.log
+
+# Python virtual environments
+venv/
+env/
+
+# Python packaging
+*.egg-info/
+
+# Miscellaneous
+*.bak
+Thumbs.db
+.history
+.coverage
+.hypothesis/
+.cache/
+.mypy_cache/
+.pytest_cache/
+.pylint.d/
+.ropeproject/
+*.swp
+*.swo
+*.tmp
+*.out
+
+# PDFs (except key project docs)
+*.pdf
+!Academically Grounded Territorial Disambiguation Categories.pdf
+!Territorial Disambiguation in UK Legal Data A Funding Propos 1.pdf 

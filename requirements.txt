@@ -1,0 +1,7 @@
+openai>=1.0.0        # For OpenAI LLM API access
+spacy>=3.0.0         # For NLP and entity recognition
+pandas>=1.3.0        # For data manipulation and Excel reporting
+openpyxl>=3.0.0      # For writing Excel files
+python-dotenv>=0.19  # For loading .env files
+requests>=2.25.0     # For HTTP requests (if needed)
+tqdm>=4.60.0         # For progress bars (optional, if used)
