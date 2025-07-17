@@ -1,0 +1,477 @@
+{
+  "territorial_differences": [
+    {
+      "difference_id": "diff_001",
+      "provisions": {
+        "section-1": [
+          "England",
+          "Wales"
+        ]
+      },
+      "difference_type": "content",
+      "what_is_different": "Criteria for curriculum evaluation",
+      "why_is_different": "Devolved governance",
+      "description": "Section 1 outlines different criteria for evaluating educational projects in England and Wales. In England, the focus is on a balanced and broadly based curriculum promoting spiritual, moral, cultural, mental, and physical development. In Wales, the criteria include enabling pupils to develop in ways described in the four purposes set out in the Curriculum and Assessment (Wales) Act 2021, providing for appropriate progression, and being suitable for pupils of differing ages, abilities, and aptitudes.",
+      "territory_texts": {
+        "England": "have regard to the need for the curriculum for any school in England affected by the project to be a balanced and broadly based curriculum which promotes the spiritual, moral, cultural, mental and physical development of children and of society",
+        "Wales": "have regard to the need for the curriculum for pupils of compulsory school age, or below that age, at any maintained school affected by the project that is maintained by a local authority in Wales— (i) to enable pupils to develop in the ways described in the four purposes set out in section 2(1) of the Curriculum and Assessment (Wales) Act 2021, (ii) to provide for appropriate progression, (iii) to be suitable for pupils of differing ages, abilities and aptitudes, and (iv) to be broad and balanced"
+      }
+    },
+    {
+      "difference_id": "diff_002",
+      "provisions": {
+        "section-2": [
+          "England",
+          "Wales"
+        ],
+        "section-3": [
+          "Wales"
+        ]
+      },
+      "difference_type": "scope",
+      "what_is_different": "Power to suspend statutory requirements",
+      "why_is_different": "Devolved governance",
+      "description": "Section 2 allows the Secretary of State in England and the National Assembly for Wales to suspend statutory requirements. However, Section 3, which deals with the variation or revocation of such orders, applies only to Wales.",
+      "territory_texts": {
+        "England": "On the application of one or more qualifying bodies (“ the applicant ”), the Secretary of State (in relation to England) or the National Assembly for Wales (in relation to Wales) may for the purpose of this Chapter by order make provision—",
+        "Wales": "The power conferred on the Secretary of State and the National Assembly for Wales by section 2 includes— (a) power by a further order made under that section on an application made for the purposes of that section by one or more qualifying bodies, to amend any order previously made under that section so as to extend— (i) the requirements or functions in relation to which the order applies, (ii) the qualifying bodies to which it applies, or (iii) subject to subsection (2), the period during which it has effect, and (b) power by a further order under that section, which may be made without any application from a qualifying body, to revoke any order previously made under that section."
+      }
+    },
+    {
+      "difference_id": "diff_003",
+      "provisions": {
+        "section-5": [
+          "Wales"
+        ],
+        "section-6": [
+          "England",
+          "Wales"
+        ]
+      },
+      "difference_type": "content",
+      "what_is_different": "Annual report requirements",
+      "why_is_different": "Devolved governance",
+      "description": "Section 5 requires the National Assembly for Wales to prepare and publish a report on orders made under section 2 in any academic year. Section 6 provides definitions applicable to both England and Wales but does not include the specific reporting requirement found in Section 5.",
+      "territory_texts": {
+        "Wales": "Where the National Assembly for Wales has made any order under section 2 in any academic year, the Assembly shall prepare and publish a report on all the orders made by the Assembly under that section in that academic year."
+      }
+    },
+    {
+      "difference_id": "diff_004",
+      "provisions": {
+        "section-14": [
+          "England",
+          "Wales",
+          "United Kingdom"
+        ],
+        "section-16": [
+          "England",
+          "Wales"
+        ]
+      },
+      "difference_type": "scope",
+      "what_is_different": "Financial assistance for education",
+      "why_is_different": "Policy divergence",
+      "description": "Section 14 allows the Secretary of State and the National Assembly for Wales to give financial assistance for educational purposes, with a broader scope including the United Kingdom. Section 16 specifies terms for financial assistance but applies only to England and Wales.",
+      "territory_texts": {
+        "England": "The Secretary of State (in relation to England) or the National Assembly for Wales (in relation to Wales) may give, or make arrangements for the giving of, financial assistance to any person for or in connection with any of the purposes mentioned in subsection (2).",
+        "Wales": "The Secretary of State (in relation to England) or the National Assembly for Wales (in relation to Wales) may give, or make arrangements for the giving of, financial assistance to any person for or in connection with any of the purposes mentioned in subsection (2).",
+        "United Kingdom": "The Secretary of State (in relation to England) or the National Assembly for Wales (in relation to Wales) may give, or make arrangements for the giving of, financial assistance to any person for or in connection with any of the purposes mentioned in subsection (2)."
+      }
+    },
+    {
+      "difference_id": "diff_005",
+      "provisions": {
+        "section-32": [
+          "England"
+        ],
+        "section-32A": [
+          "Wales"
+        ],
+        "section-32B": [
+          "Wales"
+        ],
+        "section-32C": [
+          "Wales"
+        ]
+      },
+      "difference_type": "procedure",
+      "what_is_different": "Responsibility for fixing term dates and times",
+      "why_is_different": "Devolved governance",
+      "description": "Section 32 assigns responsibility for fixing term dates and times of sessions to local authorities and governing bodies in England. Sections 32A, 32B, and 32C outline the procedures for determining term dates and times of sessions in Wales, involving cooperation and coordination among local authorities and governing bodies, with oversight by the Welsh Ministers.",
+      "territory_texts": {
+        "England": "In the case of a community, voluntary controlled or community special school in England or a maintained nursery school in England — (a) the local authority shall determine the dates when the school terms and holidays are to begin and end, and (b) ...the governing body shall determine the times of the school sessions.",
+        "Wales": "A local authority in Wales must determine the term dates for each community, voluntary controlled or community special school or maintained nursery school in its area."
+      }
+    },
+    {
+      "difference_id": "diff_006",
+      "provisions": {
+        "section-51A": [
+          "England"
+        ],
+        "section-52": [
+          "Wales"
+        ]
+      },
+      "difference_type": "procedure",
+      "what_is_different": "Exclusion of pupils",
+      "why_is_different": "Devolved governance",
+      "description": "Section 51A outlines the procedure for excluding pupils in England, including the establishment of review panels. Section 52 provides the procedure for excluding pupils in Wales, including the right to appeal to a panel constituted in accordance with regulations.",
+      "territory_texts": {
+        "England": "The head teacher of a maintained school in England may exclude a pupil from the school for a fixed period or permanently.",
+        "Wales": "The head teacher of a maintained school in Wales may exclude a pupil from the school for a fixed period or permanently."
+      }
+    }
+  ],
+  "other_sections": [
+    {
+      "type_id": "other_001",
+      "provisions": {
+        "section-4": [
+          "Wales"
+        ],
+        "section-8": [
+          "Wales"
+        ],
+        "section-9": [
+          "Wales"
+        ],
+        "section-17": [
+          "Wales"
+        ],
+        "section-18": [
+          "Wales"
+        ],
+        "section-19": [
+          "England",
+          "Wales"
+        ],
+        "section-20": [
+          "England",
+          "Wales"
+        ],
+        "section-21": [
+          "England",
+          "Wales"
+        ],
+        "section-22": [
+          "England"
+        ],
+        "section-23A": [
+          "England"
+        ],
+        "section-24": [
+          "England"
+        ],
+        "section-25": [
+          "England"
+        ],
+        "section-26": [
+          "England"
+        ],
+        "section-28": [
+          "Wales"
+        ],
+        "section-28A": [
+          "Wales"
+        ],
+        "section-29": [
+          "England",
+          "Wales"
+        ],
+        "section-29A": [
+          "England"
+        ],
+        "section-30": [
+          "England",
+          "Wales"
+        ],
+        "section-34": [
+          "Wales"
+        ],
+        "section-35": [
+          "Wales"
+        ],
+        "section-36": [
+          "Wales"
+        ],
+        "section-37": [
+          "England",
+          "Wales"
+        ],
+        "section-38": [
+          "England",
+          "Wales"
+        ],
+        "section-39": [
+          "England"
+        ],
+        "section-41": [
+          "England",
+          "Wales"
+        ],
+        "section-44": [
+          "England",
+          "Wales"
+        ],
+        "section-62A": [
+          "England"
+        ],
+        "section-63": [
+          "Wales"
+        ],
+        "section-76": [
+          "England"
+        ],
+        "section-79": [
+          "England"
+        ],
+        "section-80": [
+          "England"
+        ],
+        "section-80B": [
+          "England"
+        ],
+        "section-84": [
+          "England"
+        ],
+        "section-85": [
+          "England"
+        ],
+        "section-87": [
+          "England"
+        ],
+        "section-88": [
+          "England"
+        ],
+        "section-90": [
+          "England"
+        ],
+        "section-91": [
+          "England"
+        ],
+        "section-92": [
+          "England"
+        ],
+        "section-92A": [
+          "England",
+          "Wales"
+        ],
+        "section-93": [
+          "England"
+        ],
+        "section-94": [
+          "England"
+        ],
+        "section-101": [
+          "Wales"
+        ],
+        "section-108": [
+          "Wales"
+        ],
+        "section-109": [
+          "Wales"
+        ],
+        "section-118": [
+          "Wales"
+        ],
+        "section-129": [
+          "England",
+          "Wales"
+        ],
+        "section-131": [
+          "England",
+          "Wales"
+        ],
+        "section-132": [
+          "Wales"
+        ],
+        "section-133": [
+          "England",
+          "Wales"
+        ],
+        "section-134": [
+          "Wales"
+        ],
+        "section-135A": [
+          "England"
+        ],
+        "section-136": [
+          "Wales"
+        ],
+        "section-137": [
+          "England",
+          "Wales"
+        ],
+        "section-138": [
+          "Wales"
+        ],
+        "section-141A": [
+          "England"
+        ],
+        "section-141B": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ],
+        "section-141C": [
+          "Wales",
+          "Scotland",
+          "Northern Ireland"
+        ],
+        "section-141F": [
+          "England",
+          "Wales"
+        ],
+        "section-142": [
+          "England",
+          "Wales"
+        ],
+        "section-143": [
+          "England",
+          "Wales"
+        ],
+        "section-144": [
+          "England",
+          "Wales"
+        ],
+        "section-145": [
+          "Wales"
+        ],
+        "section-148": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ],
+        "section-149": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ],
+        "section-151": [
+          "Wales"
+        ],
+        "section-153": [
+          "Wales"
+        ],
+        "section-156AA": [
+          "England",
+          "Wales"
+        ],
+        "section-156A": [
+          "England",
+          "Wales"
+        ],
+        "section-158": [
+          "Wales"
+        ],
+        "section-162A": [
+          "England"
+        ],
+        "section-167C": [
+          "Wales"
+        ],
+        "section-167D": [
+          "England"
+        ],
+        "section-168": [
+          "England"
+        ],
+        "section-169": [
+          "United Kingdom"
+        ],
+        "section-171": [
+          "Wales"
+        ],
+        "section-175": [
+          "England",
+          "Wales"
+        ],
+        "section-177": [
+          "England",
+          "Wales"
+        ],
+        "section-178": [
+          "Wales"
+        ],
+        "section-181": [
+          "England",
+          "Wales"
+        ],
+        "section-182": [
+          "Wales"
+        ],
+        "section-183": [
+          "Wales"
+        ],
+        "section-184": [
+          "Wales"
+        ],
+        "section-185": [
+          "Wales"
+        ],
+        "section-186": [
+          "England",
+          "Wales"
+        ],
+        "section-189": [
+          "Wales"
+        ],
+        "section-191": [
+          "Wales"
+        ],
+        "section-194": [
+          "Wales"
+        ],
+        "section-195": [
+          "Wales"
+        ],
+        "section-196": [
+          "Wales"
+        ],
+        "section-197": [
+          "Wales"
+        ],
+        "section-198": [
+          "Wales"
+        ],
+        "section-203": [
+          "England",
+          "Wales"
+        ],
+        "section-207": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ],
+        "section-208": [
+          "Wales"
+        ],
+        "section-210": [
+          "Wales"
+        ],
+        "section-211": [
+          "Wales"
+        ],
+        "section-212": [
+          "England",
+          "Wales"
+        ],
+        "section-214": [
+          "Wales"
+        ],
+        "section-216": [
+          "Wales"
+        ],
+        "section-217": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ]
+      },
+      "category": "uniform_provision_with_territorial_reference",
+      "description": "These sections apply uniformly across the specified territories, with references to territories included to clarify jurisdiction or procedural details without creating substantive differences."
+    }
+  ]
+}

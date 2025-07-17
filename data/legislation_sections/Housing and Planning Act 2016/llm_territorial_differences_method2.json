@@ -1,0 +1,264 @@
+{
+  "territorial_differences": [
+    {
+      "difference_id": "diff_001",
+      "provisions": {
+        "section-127": [
+          "England",
+          "Wales"
+        ]
+      },
+      "difference_type": "penalty",
+      "what_is_different": "Level of fine for contravening an overcrowding notice",
+      "why_is_different": "Policy divergence",
+      "description": "Section 127(7A) states that a person who commits an offence under subsection (7) in relation to premises in England is liable on summary conviction to a fine, whereas section 127(7B) states that a person who commits an offence under subsection (7) in relation to premises in Wales is liable on summary conviction to a fine not exceeding level 4 on the standard scale.",
+      "territory_texts": {
+        "England": "A person who commits an offence under subsection (7) in relation to premises in England is liable on summary conviction to a fine.",
+        "Wales": "A person who commits an offence under subsection (7) in relation to premises in Wales is liable on summary conviction to a fine not exceeding level 4 on the standard scale."
+      }
+    },
+    {
+      "difference_id": "diff_002",
+      "provisions": {
+        "section-78": [
+          "England",
+          "Wales"
+        ]
+      },
+      "difference_type": "procedure",
+      "what_is_different": "Set off under section 11 of Local Government Act 2003",
+      "why_is_different": "Devolved governance",
+      "description": "Section 78(2) states that in subsection (5), after 'an authority' insert 'in Wales'. Section 78(3) introduces subsection (5A) which applies to England, allowing the Secretary of State to set off amounts against repayments.",
+      "territory_texts": {
+        "England": "(5A) Where the Secretary of State is liable to repay an amount that has been overpaid by a local housing authority in England under this section, the Secretary of State may set off against the amount of the repayment any amount that the authority is liable to pay the Secretary of State under— (a) this section, or (b) section 69 of the Housing and Planning Act 2016 (payments in respect of vacant higher value housing).",
+        "Wales": "In subsection (5), after 'an authority' insert 'in Wales'."
+      }
+    },
+    {
+      "difference_id": "diff_003",
+      "provisions": {
+        "section-150": [
+          "England",
+          "Wales"
+        ]
+      },
+      "difference_type": "scope",
+      "what_is_different": "Permission in principle for development of land",
+      "why_is_different": "Devolved governance",
+      "description": "Section 150(1) states that permission in principle may be granted for housing-led development of land in England. Section 150(4) states that a reference to permission in principle in any provision of this Act in its application to land in Wales, or in its application to functions of the Welsh Ministers or other authorities in Wales, is to be ignored.",
+      "territory_texts": {
+        "England": "Permission in principle may be granted for housing-led development of land in England as provided in section 59A.",
+        "Wales": "A reference to permission in principle in any provision of this Act in its application to land in Wales, or in its application to functions of the Welsh Ministers or other authorities in Wales, is to be ignored."
+      }
+    }
+  ],
+  "other_sections": [
+    {
+      "type_id": "other_001",
+      "provisions": {
+        "section-1": [
+          "England"
+        ],
+        "section-2": [
+          "England"
+        ],
+        "section-3": [
+          "England"
+        ],
+        "section-4": [
+          "England"
+        ],
+        "section-5": [
+          "England"
+        ],
+        "section-6": [
+          "England"
+        ],
+        "section-14": [
+          "England"
+        ],
+        "section-15": [
+          "England"
+        ],
+        "section-16": [
+          "England"
+        ],
+        "section-28": [
+          "England"
+        ],
+        "section-29": [
+          "England"
+        ],
+        "section-30": [
+          "England"
+        ],
+        "section-38": [
+          "England"
+        ],
+        "section-39": [
+          "England"
+        ],
+        "section-40": [
+          "England"
+        ],
+        "section-49": [
+          "England"
+        ],
+        "section-54": [
+          "England"
+        ],
+        "section-55": [
+          "England"
+        ],
+        "section-57": [
+          "England"
+        ],
+        "section-69": [
+          "England"
+        ],
+        "section-74": [
+          "England"
+        ],
+        "section-76": [
+          "England"
+        ],
+        "section-77": [
+          "England"
+        ],
+        "section-80": [
+          "England"
+        ],
+        "section-88": [
+          "England"
+        ],
+        "section-89": [
+          "England"
+        ],
+        "section-90": [
+          "England"
+        ],
+        "section-95": [
+          "England"
+        ],
+        "section-122": [
+          "England"
+        ],
+        "section-123": [
+          "England"
+        ],
+        "section-124": [
+          "England"
+        ],
+        "section-125": [
+          "United Kingdom",
+          "England"
+        ],
+        "section-128": [
+          "England"
+        ],
+        "section-129": [
+          "England"
+        ],
+        "section-130": [
+          "England"
+        ],
+        "section-131": [
+          "England"
+        ],
+        "section-135": [
+          "England"
+        ],
+        "section-138": [
+          "England",
+          "Wales"
+        ],
+        "section-151": [
+          "England"
+        ],
+        "section-152": [
+          "England",
+          "Wales"
+        ],
+        "section-153": [
+          "England"
+        ],
+        "section-154": [
+          "England"
+        ],
+        "section-155": [
+          "England"
+        ],
+        "section-159": [
+          "England"
+        ],
+        "section-160": [
+          "England"
+        ],
+        "section-161": [
+          "England"
+        ],
+        "section-165": [
+          "England"
+        ],
+        "section-166": [
+          "England",
+          "Wales"
+        ],
+        "section-167": [
+          "England",
+          "Wales"
+        ],
+        "section-169": [
+          "England",
+          "Wales"
+        ],
+        "section-170": [
+          "England"
+        ],
+        "section-171": [
+          "England"
+        ],
+        "section-179": [
+          "England and Wales",
+          "England",
+          "Wales"
+        ],
+        "section-180": [
+          "Wales"
+        ],
+        "section-192": [
+          "England",
+          "Wales"
+        ],
+        "section-194": [
+          "England",
+          "Wales"
+        ],
+        "section-205": [
+          "England and Wales",
+          "England",
+          "Wales"
+        ],
+        "section-207": [
+          "Scotland",
+          "Wales"
+        ],
+        "section-208": [
+          "Scotland",
+          "England and Wales",
+          "England",
+          "Wales"
+        ],
+        "section-215": [
+          "Wales",
+          "Northern Ireland",
+          "Scotland",
+          "England",
+          "England and Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "These sections explicitly state their territorial extent but do not create substantive differences in legal obligations or rights across the territories."
+    }
+  ]
+}

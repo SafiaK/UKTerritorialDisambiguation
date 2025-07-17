@@ -1,0 +1,59 @@
+{
+  "territorial_differences": [],
+  "other_sections": [
+    {
+      "type_id": "other_001",
+      "provisions": {
+        "section-6": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "Section 6 amends the definition of 'English body' in the Housing and Regeneration Act 2008, explicitly stating its application to England by adding a limited liability partnership with its registered office in England."
+    },
+    {
+      "type_id": "other_002",
+      "provisions": {
+        "section-10": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "Section 10 introduces the requirement for a health and safety lead for registered providers, explicitly applying to England by referencing local authority structures specific to England."
+    },
+    {
+      "type_id": "other_003",
+      "provisions": {
+        "section-11": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "Section 11 amends the Housing and Planning Act 2016 to include registered providers of social housing under electrical safety standards, explicitly applying to England by stating 'after England insert to whom this section applies'."
+    },
+    {
+      "type_id": "other_004",
+      "provisions": {
+        "section-42": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "Section 42 inserts a new section into the Landlord and Tenant Act 1985, applying to social housing leases in England, explicitly stating its application to England."
+    },
+    {
+      "type_id": "other_005",
+      "provisions": {
+        "section-45": [
+          "Scotland",
+          "England and Wales",
+          "England",
+          "Northern Ireland",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "Section 45 provides the extent of the Act, stating that it extends to England and Wales only, with specific sections extending to Scotland and Northern Ireland as well."
+    }
+  ]
+}

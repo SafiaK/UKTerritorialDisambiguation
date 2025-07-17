@@ -1,0 +1,193 @@
+{
+  "territorial_differences": [
+    {
+      "difference_id": "diff_001",
+      "provisions": {
+        "section-60": [
+          "England",
+          "Wales"
+        ],
+        "section-61": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ]
+      },
+      "difference_type": "content",
+      "what_is_different": "Restriction of 'registered social landlord' system",
+      "why_is_different": "Devolved governance",
+      "description": "Section 60 states that the system of 'registered social landlords' under Part 1 of the Housing Act 1996 will continue to apply in relation to Wales, while Section 61 amends Part 1 of the Housing Act 1996 to restrict the 'registered social landlord' system to Wales, with specific amendments to the registration process and authority.",
+      "territory_texts": {
+        "England": "This Part replaces the system of  “registered social landlords” under Part 1 of the Housing Act 1996 (c. 52).",
+        "Wales": "That Part will continue to apply in relation to Wales (see section 61).",
+        "England and Wales": "Part 1 of the Housing Act 1996 (c. 52)\n\t\t\t\t\t(social rented sector) is amended as follows (and the title of Part 1 becomes  “Social Rented Sector in Wales”)."
+      }
+    },
+    {
+      "difference_id": "diff_002",
+      "provisions": {
+        "section-191": [
+          "England",
+          "Wales"
+        ]
+      },
+      "difference_type": "enforcement_body",
+      "what_is_different": "Appropriate authority for consent to disposals",
+      "why_is_different": "Devolved governance",
+      "description": "Section 191 specifies that the 'appropriate authority' for consent to certain disposals of housing is the Regulator of Social Housing for England and the Welsh Ministers for Wales.",
+      "territory_texts": {
+        "England": "(2A) “ The appropriate authority ” means— (a) in relation to a disposal of land in England by a registered provider of social housing, the Regulator of Social Housing, (b) in relation to any other disposal of land in England, the Secretary of State,",
+        "Wales": "(2A) “ The appropriate authority ” means— (c) in relation to a disposal of land in Wales, the Welsh Ministers."
+      }
+    }
+  ],
+  "other_sections": [
+    {
+      "type_id": "other_001",
+      "provisions": {
+        "section-2": [
+          "England"
+        ],
+        "section-13": [
+          "England"
+        ],
+        "section-26": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "These sections explicitly state their application to England, excluding Greater London, without altering the substantive content of the provisions."
+    },
+    {
+      "type_id": "other_002",
+      "provisions": {
+        "section-55": [
+          "United Kingdom"
+        ],
+        "section-109": [
+          "United Kingdom"
+        ]
+      },
+      "category": "uniform_provision_with_territorial_reference",
+      "description": "These sections apply uniformly across the United Kingdom, with references to territories to ensure clarity and avoid ambiguity."
+    },
+    {
+      "type_id": "other_003",
+      "provisions": {
+        "section-96": [
+          "England"
+        ],
+        "section-112": [
+          "England"
+        ],
+        "section-119": [
+          "England"
+        ],
+        "section-126A": [
+          "England"
+        ],
+        "section-126B": [
+          "England"
+        ],
+        "section-278A": [
+          "England"
+        ],
+        "section-290": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "These sections explicitly state their application to England, ensuring clarity in the territorial extent without altering the substantive content."
+    },
+    {
+      "type_id": "other_004",
+      "provisions": {
+        "section-149": [
+          "Wales"
+        ],
+        "section-313": [
+          "Wales"
+        ],
+        "section-320": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "These sections explicitly state their application to Wales, ensuring clarity in the territorial extent without altering the substantive content."
+    },
+    {
+      "type_id": "other_005",
+      "provisions": {
+        "section-314": [
+          "Northern Ireland",
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section explicitly states its application to Northern Ireland and Scotland, ensuring clarity in the territorial extent without altering the substantive content."
+    },
+    {
+      "type_id": "other_006",
+      "provisions": {
+        "section-79": [
+          "England"
+        ],
+        "section-180": [
+          "England"
+        ],
+        "section-266": [
+          "Northern Ireland"
+        ],
+        "section-275": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ],
+        "section-292": [
+          "England",
+          "Wales"
+        ],
+        "section-294": [
+          "England",
+          "Wales"
+        ],
+        "section-296": [
+          "England",
+          "Wales"
+        ],
+        "section-297": [
+          "England",
+          "Wales"
+        ],
+        "section-298": [
+          "England",
+          "Wales"
+        ],
+        "section-302": [
+          "England",
+          "Wales"
+        ],
+        "section-309": [
+          "England",
+          "Wales"
+        ],
+        "section-313": [
+          "Wales"
+        ],
+        "section-320": [
+          "Wales"
+        ],
+        "section-324": [
+          "England",
+          "Wales"
+        ],
+        "section-325": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "These sections explicitly state their application to specific territories, ensuring clarity in the territorial extent without altering the substantive content."
+    }
+  ]
+}

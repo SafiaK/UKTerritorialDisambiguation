@@ -1,0 +1,97 @@
+[
+  {
+    "difference_id": "diff_001",
+    "provisions": {
+      "section-1": [
+        "England"
+      ],
+      "section-19": [
+        "Wales"
+      ]
+    },
+    "difference_type": "scope",
+    "what_is_different": "Inspectorate of Schools",
+    "why_is_different": "Devolved governance",
+    "description": "Section 1 establishes Her Majesty's Inspectorate of Schools in England, while Section 19 establishes Her Majesty's Inspectorate of Education and Training in Wales.",
+    "territory_texts": {
+      "England": "1 Her Majesty's Inspectorate of Schools in England.",
+      "Wales": "19 Her Majesty's Inspectorate of Education and Training in Wales."
+    }
+  },
+  {
+    "difference_id": "diff_002",
+    "provisions": {
+      "section-5": [
+        "England"
+      ],
+      "section-28": [
+        "Wales"
+      ]
+    },
+    "difference_type": "scope",
+    "what_is_different": "Duty to inspect schools",
+    "why_is_different": "Devolved governance",
+    "description": "Section 5 outlines the duty of the Chief Inspector to inspect schools in England, while Section 28 outlines the duty of the Chief Inspector to inspect schools in Wales.",
+    "territory_texts": {
+      "England": "5 Duty to inspect certain schools at prescribed intervals...",
+      "Wales": "28 Duty to arrange regular inspections of certain schools..."
+    }
+  },
+  {
+    "difference_id": "diff_003",
+    "provisions": {
+      "section-47": [
+        "England"
+      ],
+      "section-50": [
+        "Wales"
+      ]
+    },
+    "difference_type": "content",
+    "what_is_different": "Definition of 'denominational education'",
+    "why_is_different": "Different statutory definitions in England and Wales",
+    "description": "Section 47 defines denominational education in England as 'religious education which is required by section 80(1)(a) or 101(1)(a) of the Education Act 2002', while Section 50 defines it in Wales as 'teaching and learning in respect of Religion, Values and Ethics'.",
+    "territory_texts": {
+      "England": "47 Meaning of “denominational education” (1) In this Part “denominational education”, in relation to a school in England, means religious education which— (a) is required by section 80(1)(a) or 101(1)(a) of the Education Act 2002...",
+      "Wales": "50 Inspection of religious education: Wales (1) It is the duty of the governing body of any voluntary or foundation school in Wales which has been designated under section 69(3) of the School Standards and Framework Act 1998..."
+    }
+  },
+  {
+    "difference_id": "diff_004",
+    "provisions": {
+      "section-48": [
+        "England"
+      ],
+      "section-50": [
+        "Wales"
+      ]
+    },
+    "difference_type": "content",
+    "what_is_different": "Inspection of religious education",
+    "why_is_different": "Different statutory frameworks for England and Wales",
+    "description": "Section 48 outlines the inspection of religious education in England, while Section 50 outlines the inspection of religious education in Wales, with different authorities and procedures involved.",
+    "territory_texts": {
+      "England": "48 Inspection of religious education: England (1) It is the duty of the governing body of any voluntary or foundation school in England...",
+      "Wales": "50 Inspection of religious education: Wales (1) It is the duty of the governing body of any voluntary or foundation school in Wales..."
+    }
+  },
+  {
+    "difference_id": "diff_005",
+    "provisions": {
+      "section-55": [
+        "Wales"
+      ],
+      "section-108": [
+        "Northern Ireland"
+      ]
+    },
+    "difference_type": "scope",
+    "what_is_different": "Inspection of careers services",
+    "why_is_different": "Different legislative frameworks for education services in Wales and Northern Ireland",
+    "description": "Section 55 pertains to the inspection of relevant services provided in Wales, while Section 108 pertains to the supply of information for education maintenance allowances in Northern Ireland.",
+    "territory_texts": {
+      "Wales": "55 Inspection of careers services in Wales (1) This section applies to relevant services provided in Wales...",
+      "Northern Ireland": "108 Supply of information: education maintenance allowances (1) This subsection applies to information which— (a) is held for the purposes of functions relating to tax or tax credits..."
+    }
+  }
+]

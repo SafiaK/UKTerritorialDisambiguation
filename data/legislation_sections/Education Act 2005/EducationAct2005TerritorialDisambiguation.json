@@ -1,0 +1,215 @@
+{
+  "territorial_differences": [
+    {
+      "difference_id": "diff_001",
+      "provisions": {
+        "section-47": [
+          "Wales",
+          "England"
+        ]
+      },
+      "difference_type": "content",
+      "what_is_different": "Definition of 'denominational education'",
+      "why_is_different": "Devolved governance and different statutory frameworks in England and Wales",
+      "description": "Section 47 defines denominational education in England as 'religious education which is required by section 80(1)(a) or 101(1)(a) of the Education Act 2002 to be included in the school's basic curriculum, but is not required by any enactment to be given in accordance with an agreed syllabus', while in Wales it is defined as 'teaching and learning in respect of Religion, Values and Ethics, which is provided under paragraph 7(3) or paragraph 8(4) of Schedule 1 to the Curriculum and Assessment (Wales) Act 2021, or under section 61 of that Act, and in accordance with any provisions of the school’s trust deed that relate to teaching and learning in respect of the mandatory element of Religion, Values and Ethics, or the tenets of the religion or religious denomination specified in relation to the school in an order under section 68A of the School Standards and Framework Act 1998.'",
+      "territory_texts": {
+        "England": "In this Part  “ denominational education ”, in relation to a school in England , means religious education which— (a) is required by section 80(1)(a) or 101(1)(a) of the Education Act 2002 (c. 32) to be included in the school's basic curriculum, but (b) is not required by any enactment to be given in accordance with an agreed syllabus.",
+        "Wales": "In this Part, “ denominational education ”, in relation to a school in Wales, means teaching and learning in respect of Religion, Values and Ethics, which is provided— (a) under paragraph 7(3) or paragraph 8(4) of Schedule 1 to the Curriculum and Assessment (Wales) Act 2021, or (b) under section 61 of that Act, and in accordance with— (i) any provisions of the school’s trust deed that relate to teaching and learning in respect of the mandatory element of Religion, Values and Ethics, or (ii) the tenets of the religion or religious denomination specified in relation to the school in an order under section 68A of the School Standards and Framework Act 1998."
+      }
+    },
+    {
+      "difference_id": "diff_002",
+      "provisions": {
+        "section-48": [
+          "England"
+        ],
+        "section-50": [
+          "Wales"
+        ]
+      },
+      "difference_type": "procedure",
+      "what_is_different": "Inspection of religious education",
+      "why_is_different": "Devolved governance and different procedural requirements in England and Wales",
+      "description": "Section 48 outlines the procedure for the inspection of religious education in England, requiring the governing body of any voluntary or foundation school designated as having a religious character to secure inspections. Section 50 provides a similar requirement for Wales but specifies that the person chosen for inspection need not be registered as an inspector under section 25.",
+      "territory_texts": {
+        "England": "It is the duty of the governing body of any voluntary or foundation school in England which has been designated under section 69(3) of the School Standards and Framework Act 1998 by the Secretary of State as having a religious character to secure that— (a) any denominational education given to pupils, and (b) the content of the school's collective worship, are inspected under this section.",
+        "Wales": "It is the duty of the governing body of any voluntary or foundation school in Wales which has been designated under section 69(3) of the School Standards and Framework Act 1998 by the Assembly as having a religious character to secure that— (a) any denominational education given to pupils, and (b) the content of the school's collective worship, are inspected under this section. The person chosen need not be registered as an inspector under section 25."
+      }
+    },
+    {
+      "difference_id": "diff_003",
+      "provisions": {
+        "section-108": [
+          "Northern Ireland"
+        ],
+        "section-109": [
+          "England and Wales",
+          "England",
+          "Northern Ireland",
+          "Scotland",
+          "Wales"
+        ]
+      },
+      "difference_type": "scope",
+      "what_is_different": "Supply of information for education maintenance allowances",
+      "why_is_different": "Different administrative arrangements and legal requirements across UK territories",
+      "description": "Section 108 allows for the supply of information for purposes relating to eligibility for education maintenance allowances, specifically mentioning Northern Ireland. Section 109 addresses the unauthorised disclosure of such information and applies to all UK territories, indicating a broader scope.",
+      "territory_texts": {
+        "Northern Ireland": "Information to which subsection (1) applies may be supplied to a person falling within subsection (3) for use for purposes relating to eligibility for education maintenance allowances.",
+        "England and Wales": "A person guilty of an offence under subsection is liable— (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both; (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court , to a fine not exceeding the statutory maximum or to both; (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.",
+        "Scotland": "A person guilty of an offence under subsection is liable— (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both; (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court , to a fine not exceeding the statutory maximum or to both; (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.",
+        "Wales": "A person guilty of an offence under subsection is liable— (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both; (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court , to a fine not exceeding the statutory maximum or to both; (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both."
+      }
+    }
+  ],
+  "other_sections": [
+    {
+      "type_id": "other_001",
+      "provisions": {
+        "section-1": [
+          "England"
+        ],
+        "section-2": [
+          "England"
+        ],
+        "section-5": [
+          "England"
+        ],
+        "section-8": [
+          "England"
+        ],
+        "section-10A": [
+          "England"
+        ],
+        "section-11A": [
+          "England"
+        ],
+        "section-66": [
+          "England"
+        ],
+        "section-67": [
+          "England"
+        ],
+        "section-102": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "These sections explicitly state their application to England, detailing the roles and duties of inspectors and local authorities, without altering the substantive content of the provisions."
+    },
+    {
+      "type_id": "other_002",
+      "provisions": {
+        "section-19": [
+          "Wales"
+        ],
+        "section-20": [
+          "Wales"
+        ],
+        "section-23": [
+          "Wales"
+        ],
+        "section-24": [
+          "Wales"
+        ],
+        "section-25": [
+          "Wales"
+        ],
+        "section-27": [
+          "Wales"
+        ],
+        "section-28": [
+          "Wales"
+        ],
+        "section-31": [
+          "Wales"
+        ],
+        "section-43": [
+          "Wales"
+        ],
+        "section-44A": [
+          "Wales"
+        ],
+        "section-44F": [
+          "Wales"
+        ],
+        "section-52": [
+          "Wales"
+        ],
+        "section-55": [
+          "Wales"
+        ],
+        "section-56": [
+          "Wales"
+        ],
+        "section-57": [
+          "Wales"
+        ],
+        "section-59": [
+          "Wales"
+        ],
+        "section-62": [
+          "Wales"
+        ],
+        "section-63": [
+          "Wales"
+        ],
+        "section-68": [
+          "Wales"
+        ],
+        "section-76": [
+          "Wales"
+        ],
+        "section-84A": [
+          "Wales"
+        ],
+        "section-84B": [
+          "Wales"
+        ],
+        "section-105": [
+          "Wales"
+        ],
+        "section-119": [
+          "Wales"
+        ],
+        "section-124": [
+          "Wales"
+        ],
+        "section-126": [
+          "Wales"
+        ]
+      },
+      "category": "reserved_powers_devolution",
+      "description": "These sections reference Wales to note devolved powers and responsibilities, such as the appointment and functions of inspectors, without creating substantive differences in the legal obligations."
+    },
+    {
+      "type_id": "other_003",
+      "provisions": {
+        "section-100": [
+          "England"
+        ],
+        "section-103": [
+          "Wales",
+          "England"
+        ],
+        "section-114": [
+          "Wales",
+          "England"
+        ],
+        "section-122": [
+          "Wales",
+          "England"
+        ],
+        "section-127": [
+          "England and Wales",
+          "England",
+          "Northern Ireland",
+          "Scotland",
+          "Wales"
+        ]
+      },
+      "category": "uniform_provision_with_territorial_reference",
+      "description": "These sections apply uniformly across the specified territories, mentioning them to clarify jurisdiction and avoid ambiguity, without altering the substantive content."
+    }
+  ]
+}

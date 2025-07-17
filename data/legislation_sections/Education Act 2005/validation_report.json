@@ -1,0 +1,229 @@
+{
+  "total_differences": 5,
+  "total_sections_checked": 10,
+  "total_territories_checked": 10,
+  "territory_presence_validation": {
+    "correct": 10,
+    "incorrect": 0,
+    "missing_sections": []
+  },
+  "territory_text_validation": {
+    "exact_matches": 7,
+    "partial_matches": 3,
+    "no_matches": 0,
+    "average_similarity_score": 0.9674603174603174
+  },
+  "detailed_results": [
+    {
+      "difference_id": "diff_001",
+      "provisions": {
+        "section-1": [
+          "England"
+        ],
+        "section-19": [
+          "Wales"
+        ]
+      },
+      "territory_texts": {
+        "England": "1 Her Majesty's Inspectorate of Schools in England.",
+        "Wales": "19 Her Majesty's Inspectorate of Education and Training in Wales."
+      },
+      "validation_results": {
+        "section-1": {
+          "section_text_available": true,
+          "territory_validations": {
+            "England": {
+              "territory_present_in_section": true,
+              "territory_text_present": false,
+              "similarity_score": 0.8571428571428571,
+              "territory_text": "1 Her Majesty's Inspectorate of Schools in England."
+            }
+          }
+        },
+        "section-19": {
+          "section_text_available": true,
+          "territory_validations": {
+            "Wales": {
+              "territory_present_in_section": true,
+              "territory_text_present": false,
+              "similarity_score": 0.8888888888888888,
+              "territory_text": "19 Her Majesty's Inspectorate of Education and Training in Wales."
+            }
+          }
+        }
+      }
+    },
+    {
+      "difference_id": "diff_002",
+      "provisions": {
+        "section-5": [
+          "England"
+        ],
+        "section-28": [
+          "Wales"
+        ]
+      },
+      "territory_texts": {
+        "England": "5 Duty to inspect certain schools at prescribed intervals...",
+        "Wales": "28 Duty to arrange regular inspections of certain schools..."
+      },
+      "validation_results": {
+        "section-5": {
+          "section_text_available": true,
+          "territory_validations": {
+            "England": {
+              "territory_present_in_section": true,
+              "territory_text_present": true,
+              "similarity_score": 1.0,
+              "territory_text": "5 Duty to inspect certain schools at prescribed intervals..."
+            }
+          }
+        },
+        "section-28": {
+          "section_text_available": true,
+          "territory_validations": {
+            "Wales": {
+              "territory_present_in_section": true,
+              "territory_text_present": true,
+              "similarity_score": 1.0,
+              "territory_text": "28 Duty to arrange regular inspections of certain schools..."
+            }
+          }
+        }
+      }
+    },
+    {
+      "difference_id": "diff_003",
+      "provisions": {
+        "section-47": [
+          "England"
+        ],
+        "section-50": [
+          "Wales"
+        ]
+      },
+      "territory_texts": {
+        "England": "47 Meaning of “denominational education” (1) In this Part “denominational education”, in relation to a school in England, means religious education which— (a) is required by section 80(1)(a) or 101(1)(a) of the Education Act 2002...",
+        "Wales": "50 Inspection of religious education: Wales (1) It is the duty of the governing body of any voluntary or foundation school in Wales which has been designated under section 69(3) of the School Standards and Framework Act 1998..."
+      },
+      "validation_results": {
+        "section-47": {
+          "section_text_available": true,
+          "territory_validations": {
+            "England": {
+              "territory_present_in_section": true,
+              "territory_text_present": false,
+              "similarity_score": 0.9285714285714286,
+              "territory_text": "47 Meaning of “denominational education” (1) In this Part “denominational education”, in relation to a school in England, means religious education which— (a) is required by section 80(1)(a) or 101(1)(a) of the Education Act 2002..."
+            }
+          }
+        },
+        "section-50": {
+          "section_text_available": true,
+          "territory_validations": {
+            "Wales": {
+              "territory_present_in_section": true,
+              "territory_text_present": true,
+              "similarity_score": 1.0,
+              "territory_text": "50 Inspection of religious education: Wales (1) It is the duty of the governing body of any voluntary or foundation school in Wales which has been designated under section 69(3) of the School Standards and Framework Act 1998..."
+            }
+          }
+        }
+      }
+    },
+    {
+      "difference_id": "diff_004",
+      "provisions": {
+        "section-48": [
+          "England"
+        ],
+        "section-50": [
+          "Wales"
+        ]
+      },
+      "territory_texts": {
+        "England": "48 Inspection of religious education: England (1) It is the duty of the governing body of any voluntary or foundation school in England...",
+        "Wales": "50 Inspection of religious education: Wales (1) It is the duty of the governing body of any voluntary or foundation school in Wales..."
+      },
+      "validation_results": {
+        "section-48": {
+          "section_text_available": true,
+          "territory_validations": {
+            "England": {
+              "territory_present_in_section": true,
+              "territory_text_present": true,
+              "similarity_score": 1.0,
+              "territory_text": "48 Inspection of religious education: England (1) It is the duty of the governing body of any voluntary or foundation school in England..."
+            }
+          }
+        },
+        "section-50": {
+          "section_text_available": true,
+          "territory_validations": {
+            "Wales": {
+              "territory_present_in_section": true,
+              "territory_text_present": true,
+              "similarity_score": 1.0,
+              "territory_text": "50 Inspection of religious education: Wales (1) It is the duty of the governing body of any voluntary or foundation school in Wales..."
+            }
+          }
+        }
+      }
+    },
+    {
+      "difference_id": "diff_005",
+      "provisions": {
+        "section-55": [
+          "Wales"
+        ],
+        "section-108": [
+          "Northern Ireland"
+        ]
+      },
+      "territory_texts": {
+        "Wales": "55 Inspection of careers services in Wales (1) This section applies to relevant services provided in Wales...",
+        "Northern Ireland": "108 Supply of information: education maintenance allowances (1) This subsection applies to information which— (a) is held for the purposes of functions relating to tax or tax credits..."
+      },
+      "validation_results": {
+        "section-55": {
+          "section_text_available": true,
+          "territory_validations": {
+            "Wales": {
+              "territory_present_in_section": true,
+              "territory_text_present": true,
+              "similarity_score": 1.0,
+              "territory_text": "55 Inspection of careers services in Wales (1) This section applies to relevant services provided in Wales..."
+            }
+          }
+        },
+        "section-108": {
+          "section_text_available": true,
+          "territory_validations": {
+            "Northern Ireland": {
+              "territory_present_in_section": true,
+              "territory_text_present": true,
+              "similarity_score": 1.0,
+              "territory_text": "108 Supply of information: education maintenance allowances (1) This subsection applies to information which— (a) is held for the purposes of functions relating to tax or tax credits..."
+            }
+          }
+        }
+      }
+    }
+  ],
+  "overall_score": 0.9837301587301587,
+  "input_files": {
+    "extracted_results": "data/legislation_sections/Education Act 2005/llm_territorial_differences.json",
+    "section_texts": "data/legislation_sections/Education Act 2005/territorial_sections_for_llm.json"
+  },
+  "section_loading_info": {
+    "total_sections_loaded": 45,
+    "input_format": "list_of_objects",
+    "sample_section_ids": [
+      "section-1",
+      "section-2",
+      "section-5",
+      "section-8",
+      "section-10A"
+    ]
+  }
+}

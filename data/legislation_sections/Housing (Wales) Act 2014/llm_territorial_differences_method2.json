@@ -1,0 +1,132 @@
+{
+  "territorial_differences": [
+    {
+      "difference_id": "diff_001",
+      "provisions": {
+        "section-53": [
+          "Wales",
+          "England"
+        ],
+        "section-68": [
+          "England"
+        ],
+        "section-70": [
+          "Wales",
+          "England"
+        ],
+        "section-76": [
+          "Wales",
+          "England"
+        ],
+        "section-80": [
+          "Wales",
+          "England"
+        ],
+        "section-81": [
+          "Wales",
+          "England"
+        ],
+        "section-82": [
+          "Wales",
+          "England"
+        ],
+        "section-83": [
+          "Wales",
+          "England"
+        ],
+        "section-91": [
+          "Wales",
+          "England"
+        ],
+        "section-92": [
+          "England"
+        ],
+        "section-92A": [
+          "Wales"
+        ],
+        "section-95": [
+          "Wales",
+          "England"
+        ],
+        "section-99": [
+          "Wales",
+          "England"
+        ]
+      },
+      "difference_type": "scope",
+      "what_is_different": "Territorial extent of duties and definitions",
+      "why_is_different": "devolved governance",
+      "description": "Sections 53, 68, 70, 76, 80, 81, 82, 83, 91, 92, 92A, 95, and 99 outline duties and definitions that apply differently across Wales and England. For example, section 68 applies to England, while section 92A applies to Wales. The duties and definitions are tailored to the governance structures and legal frameworks of each territory.",
+      "territory_texts": {
+        "Wales": "53 Overview of this Chapter (1) This Chapter confers duties on local housing authorities to help people who are homeless or threatened with homelessness and makes connected provision. (2) Sections 55 to 59 define and otherwise explain the meaning of some key terms (further provision about interpretation and an index of terms defined in this Chapter is at section 99). (3) Section 60 requires local housing authorities to secure the provision of a service providing people with information and advice connected with homelessness and assistance in accessing help under this Chapter. (4) Section 61 introduces Schedule 2 which makes provision about eligibility for help under this Chapter. (5) Section 62 places a duty on a local housing authority to assess the cases of people (“applicants”) who apply to the authority for accommodation, or help in retaining or obtaining accommodation, where they appear to the authority to be homeless or threatened with homelessness. (6) Section 63 provides for notice to be given to applicants about the outcome of the assessment. (7) Section 64 gives examples of the kinds of ways in which the subsequent duties to secure or help to secure the availability of accommodation may be discharged and what may be done to discharge them; and section 65 explains what “help to secure” means. (8) Sections 66 to 79 set out the main duties on local housing authorities to help applicants, the circumstances in which those duties come to an end and connected provision; the main duties are— (a) a duty to help to prevent applicants who are threatened with homelessness from becoming homeless (section 66); (b) a duty to secure interim accommodation for applicants in priority need (section 68) (section 70 provides for who is to have priority need for accommodation for the purposes of the Chapter); (c) a duty to help to secure that suitable accommodation is available for occupation by homeless applicants (section 73); (d) a duty to secure accommodation for applicants in priority need when the duty in section 73 comes to an end (section 75). (9) Section 78 provides for the circumstances in which local housing authorities may have regard to whether an applicant became homeless intentionally when it is considering whether a duty to secure accommodation for applicants in priority need applies; section 77 provides for the meaning of intentionally homeless. (10) Sections 80 to 82 provide for local housing authorities to end their duties to applicants by referring their cases to other authorities in Wales or England, where the applicants have a local connection with the areas of those other authorities; section 81 defines the meaning of “local connection” for the purposes of this Chapter. (11) Sections 85 to 89 provide for reviews and appeals. (12) Sections 90 to 99 make supplementary and general provision.",
+        "England": "68 Interim duty to secure accommodation for homeless applicants in priority need (1) The local housing authority must secure that suitable accommodation is available for the occupation of an applicant to whom subsection (2) or (3) applies until the duty comes to an end in accordance with section 69. (2) This subsection applies to an applicant who the authority has reason to believe may— (a) be homeless, (b) be eligible for help, and (c) have a priority need for accommodation, in circumstances where the authority is not yet satisfied that the applicant is homeless, eligible for help and in priority need for accommodation. (3) This subsection applies to an applicant— (a) who the authority has reason to believe or is satisfied has a priority need or whose case has been referred from a local housing authority in England under section 198(1) of the Housing Act 1996, and (b) to whom the duty in section 73 (duty to help to end homelessness) applies. (4) The duty under this section arises irrespective of any possibility of the referral of the applicant's case to another local housing authority (see sections 80 to 82)."
+      }
+    }
+  ],
+  "other_sections": [
+    {
+      "type_id": "other_001",
+      "provisions": {
+        "section-1": [
+          "Wales"
+        ],
+        "section-2": [
+          "Wales"
+        ],
+        "section-3": [
+          "Wales"
+        ],
+        "section-40": [
+          "Wales"
+        ],
+        "section-50": [
+          "Wales"
+        ],
+        "section-55": [
+          "United Kingdom"
+        ],
+        "section-58": [
+          "England and Wales",
+          "Wales",
+          "England",
+          "Northern Ireland"
+        ],
+        "section-63": [
+          "United Kingdom"
+        ],
+        "section-72": [
+          "Wales"
+        ],
+        "section-128": [
+          "Wales"
+        ],
+        "section-129": [
+          "England"
+        ],
+        "section-136": [
+          "Wales"
+        ],
+        "section-137": [
+          "Wales"
+        ],
+        "section-138": [
+          "Wales"
+        ],
+        "section-139": [
+          "Wales"
+        ],
+        "section-142": [
+          "Wales"
+        ],
+        "section-143": [
+          "Wales"
+        ],
+        "section-144": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "These sections explicitly state their territorial extent but do not create substantive differences in legal obligations or definitions across territories. They clarify jurisdiction and applicability without altering the content of the provisions."
+    }
+  ]
+}

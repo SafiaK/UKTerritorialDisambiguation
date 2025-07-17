@@ -1,0 +1,603 @@
+{
+  "territorial_differences": [
+    {
+      "difference_id": "diff_001",
+      "provisions": {
+        "section-1": [
+          "United Kingdom"
+        ],
+        "section-1-s": [
+          "Scotland"
+        ]
+      },
+      "difference_type": "content",
+      "what_is_different": "Protection of wild birds, their nests and eggs",
+      "why_is_different": "Different statutory provisions for Scotland",
+      "description": "Section 1 in the UK applies to intentional acts against wild birds, their nests, and eggs, while Section 1-s in Scotland includes additional provisions for reckless acts and specific protections for nests habitually used by wild birds.",
+      "territory_texts": {
+        "United Kingdom": "1 Protection of wild birds, their nests and eggs. (1) Subject to the provisions of this Part, if any person intentionally— (a) kills, injures or takes any wild bird; (aa) takes, damages or destroys the nest of a wild bird included in Schedule ZA1; (b) takes, damages or destroys the nest of any wild bird while that nest is in use or being built; or (c) takes or destroys an egg of any wild bird, he shall be guilty of an offence. (2) Subject to the provisions of this Part, if any person has in his possession or control— (a) any live or dead wild bird or any part of, or anything derived from, such a bird; or (b) an egg of a wild bird or any part of such an egg, he shall be guilty of an offence. (3) A person shall not be guilty of an offence under subsection (2) if he shows that— (a) the bird or egg had not been killed or taken, or had been lawfully killed or taken . . .  ; or (b) the bird, egg or other thing in his possession or control had been lawfully sold (whether to him or any other person) . . .  ; . . . (3ZA) A person shall not be guilty of an offence under subsection (2)(b) if the person shows that the egg, or the part of the egg, was in any person’s possession or control before 28th September 1982. (3A) In subsection (3)\n\t\t\t\t\t “ lawfully ” means without any contravention of— (a) this Part and orders made under it, (b) the Protection of Birds Acts 1954 to 1967 and orders made under those Acts, (c) any other legislation which implements the Wild Birds Directive and extends to any part of the United Kingdom, to any area designated in accordance with section 1(7) of the Continental Shelf Act 1964 , or to any area to which British fishery limits extend in accordance with section 1 of the Fishery Limits Act 1976 , and (d) the provisions of the law of any member State (other than the United Kingdom) implementing the Wild Birds Directive . (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (5) Subject to the provisions of this Part, if any person intentionally or recklessly — (a) disturbs any wild bird included in Schedule 1 while it is building a nest or is in, on or near a nest containing eggs or young; or (b) disturbs dependent young of such a bird, he shall be guilty of an offence . . . . (6) For the purposes of this section the definition of  “wild bird” in section 27(1) is to be read as not including any bird which is shown to have been bred in captivity unless it has been lawfully released into the wild as part of a re-population or re-introduction programme. (6A) “ Re-population ” and  “ re-introduction ” have the same meaning as in the Wild Birds Directive . (7) Any reference in this Part to any bird included in Schedule 1 is a reference to any bird included in Part I and, during the close season for the bird in question, any bird included in Part II of that Schedule.",
+        "Scotland": "1 Protection of wild birds, their nests and eggs. (1) Subject to the provisions of this Part, if any person intentionally or recklessly — (a) kills, injures or takes any wild bird; (b) takes, damages , destroys or otherwise interferes with the nest of any wild bird while that nest is in use or being built; or (ba) at any other time takes, damages, destroys or otherwise interferes with any nest habitually used by any wild bird included in Schedule A1; (bb) obstructs or prevents any wild bird from using its nest; (c) takes or destroys an egg of any wild bird, he shall be guilty of an offence. (2) Subject to the provisions of this Part, if any person has in his possession or control— (a) any live or dead wild bird or any part of, or anything derived from, such a bird; or (b) an egg of a wild bird or any part of such an egg, he shall be guilty of an offence. (3) A person shall not be guilty of an offence under subsection (2) if he shows that— (a) the bird or egg had not been killed or taken, or had been killed or taken at or from a place in Scotland otherwise than in contravention of the relevant provisions; . . . (b) the bird, egg or other thing in his possession or control had been sold at a place in Scotland (whether to him or any other person) otherwise than in contravention of those provisions; ; or (c) that the bird, egg or other thing in his possession or control had been killed at, taken from or sold at a place outwith Scotland and— (i) that the act of killing, taking or sale would not, if it had been committed in Scotland, have been in contravention of the relevant provisions; or (ii) that the bird, egg or other thing had been brought from the place where it was killed, taken or sold in accordance with the relevant regulations. . . . (3A) In subsection (3)— “ the relevant provisions ” means such of the provisions of— (a) the Protection of Birds Acts 1954 to 1967 and orders made under those Acts, and (b) this Part and orders made under it, as were in force at the time when the bird or egg was killed or taken or, as the case may be, the bird, egg or other thing was sold, “ the relevant regulations ” means— (a) Council Regulation 338/97/ EC on the protection of species of wild fauna and flora by regulating trade, and (b) Commission Regulation 1808/2001/ EC on the implementation of that Council Regulation, as amended from time to time (or any EU instrument replacing either of them). (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (5) Subject to the provisions of this Part, if any person intentionally or recklessly — (a) disturbs any wild bird included in Schedule 1 while it is building a nest or is in, on or near a nest containing eggs or young; or (b) disturbs dependent young of such a bird, he shall be guilty of an offence . . . . (5A) Subject to the provisions of this Part, any person who intentionally or recklessly disturbs any wild bird included in Schedule 1 which leks while it is doing so shall be guilty of an offence. (5B) Subject to the provisions of this Part, any person who intentionally or recklessly harasses any wild bird included in Schedule 1A shall be guilty of an offence. (5C) Subject to the provisions of this Part, any person who knowingly causes or permits to be done an act which is made unlawful by any of the foregoing provisions of this section shall be guilty of an offence. (6) For the purposes of this section, the definition of  “wild bird” in section 27(1) is to be read as not including any bird which is shown to have been bred in captivity unless— (a) it has been lawfully released or allowed to escape from captivity as part of a re-population or re-introduction programme; or (b) it is a mallard, grey or red-legged partridge, common pheasant or red grouse which is no longer in captivity and is not in a place where it was reared. (7) Any reference in this Part to any bird included in Schedule 1 is a reference to any bird included in Part I and, during the close season for the bird in question, any bird included in Part II of that Schedule."
+      }
+    },
+    {
+      "difference_id": "diff_002",
+      "provisions": {
+        "section-2": [
+          "England",
+          "Wales",
+          "England and Wales",
+          "Scotland"
+        ],
+        "section-2-s": [
+          "England",
+          "Wales",
+          "England and Wales",
+          "Scotland"
+        ]
+      },
+      "difference_type": "content",
+      "what_is_different": "Exceptions to s. 1",
+      "why_is_different": "Different statutory provisions for Scotland",
+      "description": "Section 2 in the UK provides exceptions to offences under section 1, while Section 2-s in Scotland includes additional provisions for acts by certain persons outside the close season and specific conditions for taking birds for breeding purposes.",
+      "territory_texts": {
+        "England": "2 Exceptions to s. 1. (1) Subject to the provisions of this section, a person shall not be guilty of an offence under section 1 by reason of the killing or taking of a bird included in Part I of Schedule 2 outside the close season for that bird, or the injuring of such a bird outside that season in the course of an attempt to kill it. (2) Subject to the provisions of this section, an authorised person shall not be guilty of an offence under section 1 by reason of— (a) the killing or taking of a bird included in Part II of Schedule 2, or the injuring of such a bird in the course of an attempt to kill it; (b) the taking, damaging or destruction of a nest of such a bird; or (c) the taking or destruction of an egg of such a bird. (3) Subsections (1) and (2) shall not apply in Scotland on Sundays or on Christmas Day; and subsection (1) shall not apply on Sundays in any area of England and Wales which the Secretary of State may by order prescribe for the purposes of that subsection. (4) In this section and section 1 “ close season ” means— (a) in the case of capercaillie and\n\t\t\t\t\t\t\t(except in Scotland) woodcock, the period in any year commencing with 1st February and ending with 30th September; (b) in the case of snipe, the period in any year commencing with 1st February and ending with 11th August; (c) in the case of wild duck and wild geese in or over any area below high-water mark of ordinary spring tides, the period in any year commencing with 21st February and ending with 31st August; (d) in any other case, subject to the provisions of this Part, the period in any year commencing with 1st February and ending with 31st August. (5) The Secretary of State may by order made with respect to the whole or any specified part of Great Britain vary the close season for any wild bird specified in the order. (6) If it appears to the Secretary of State expedient that any wild birds included in Part II of Schedule 1 or Part I of Schedule 2 should be protected during any period outside the close season for those birds, he may by order made with respect to the whole or any specified part of Great Britain declare any period (which shall not in the case of any order exceed fourteen days) as a period of special protection for those birds; and this section and section 1 shall have effect as if any period of special protection declared under this subsection for any birds formed part of the close season for those birds. (7) Before making an order under subsection (6) the Secretary of State shall consult a person appearing to him to be a representative of persons interested in the shooting of birds of the kind proposed to be protected by the order.",
+        "Scotland": "2 Exceptions to s. 1 : acts by certain persons outside close season . (1) Subject to the provisions of this section where subsection (1A) applies , a person shall not be guilty of an offence under section 1 by reason of the killing or taking of a bird included in Part I of Schedule 2 outside the close season for that bird, or the injuring of such a bird outside that season in the course of an attempt to kill it. (1A) This subsection applies where— (a) whatever the kind of bird in question— (i) the person who killed or injured it had a legal right, or permission, to kill such a bird; or (ii) the person who took it had a legal right, or permission, to take such a bird; and (b) in the case of a bird included in Part 1B of Schedule 2— (i) an owner or occupier of the land on which the bird was killed, injured or taken held an unsuspended section 16AA licence; or (ii) the person who killed, injured or took the bird reasonably believed that an owner or occupier held an unsuspended section 16AA licence in relation to that land. (1B) In subsection (1A) , “ permission ” means permission from a person who has a right to give it. (1C) Where subsection (1D) applies, a person does not commit an offence under section 1 by reason of killing or taking a bird included in Part 1B of Schedule 2 outside the close season for that bird, or the injuring of such a bird outside that season in the course of an attempt to kill it. (1D) This subsection applies where— (a) the bird was killed or taken through the use of a bird of prey, or injured in an attempt to do so, (b) either— (i) the person who killed or injured it had a legal right, or permission, to kill such a bird, or (ii) the person who took it had a legal right, or permission, to take such a bird, and (c) in the case where the person subsequently killed the injured bird, the person took all reasonable steps to kill it in a way that caused it the minimum possible suffering. (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (3) Subsection (1) shall not apply in Scotland on Sundays or on Christmas Day in relation to those birds included in Part I of Schedule 2 which are also included in Part IA of that Schedule ; and subsection (1) shall not apply on Sundays in any area of England and Wales which the Secretary of State may by order prescribe for the purposes of that subsection. (3A) Subject to the provisions of this section, where subsection (3B) applies a person does not commit an offence under section 1 by reason of the taking for the purposes of breeding of— (a) a partridge or pheasant included in Part I of Schedule 2; or (b) an egg of such a bird. (3B) This subsection applies where— (a) the person who takes does so during the period of 28 days commencing with the first day of the close season for the bird; and (b) the person who takes had— (i) a legal right to take such a bird; or (ii) permission, from a person who had a right to give permission, to take such a bird. (3C) A person does not commit an offence under section 1 by reason of the taking of a red grouse if— (a) the grouse is taken— (i) for the purpose of preventing the spread of disease; and (ii) with the intention of releasing it from captivity after no more than 12 hours; ... (b) the person had— (i) a legal right to take such a grouse; or (ii) permission, from a person who had a right to give permission, to take such a grouse. ; and (c) either— (i) an owner or occupier of the land on which the bird was taken held an unsuspended section 16AA licence in relation to the land; or (ii) the person reasonably believed that an owner or occupier held an unsuspended section 16AA licence in relation to that land. (4) In section 1, this section and section 6 “ close season ” means— (a) in the case of capercaillie and (except in Scotland) woodcock, the period in any year commencing with 1st February and ending with 30th September; (b) in the case of snipe, the period in any year commencing with 1st February and ending with 11th August; (ba) in the case of pheasant, the period in any year commencing with 2nd February and ending with 30th September; (bb) in the case of partridge, the period in any year commencing with 2nd February and ending with 31st August; (c) in the case of wild duck and wild geese in or over any area below high-water mark of ordinary spring tides, the period in any year commencing with 21st February and ending with 31st August; (ca) in the case of black grouse, the period commencing with 11th December in any year and ending with 19th August in the following year; (cb) in the case of ptarmigan and red grouse, the period commencing with 11th December in any year and ending with 11th August in the following year; (d) in any other case, subject to the provisions of this Part, the period in any year commencing with 1st February and ending with 31st August. (5) The Secretary of State may by order made with respect to the whole or any specified part of Great Britain vary the close season for any wild bird specified in the order. (6) If it appears to the Secretary of State expedient that any wild birds included in Part II of Schedule 1 or Part I of Schedule 2 should be protected during any period outside the close season for those birds, he may by order made with respect to the whole or any specified part of Great Britain declare any period (which shall not in the case of any order exceed fourteen days) as a period of special protection for those birds; and section 1, this section and section 6 shall have effect as if any period of special protection declared under this subsection for any birds formed part of the close season for those birds. (7) Before making an order under subsection (6) the Secretary of State shall consult such persons appearing to him to be a representative of persons interested in the shooting of birds of the kind proposed to be protected by the order as he considers appropriate ."
+      }
+    },
+    {
+      "difference_id": "diff_003",
+      "provisions": {
+        "section-11": [
+          "England",
+          "Wales",
+          "Scotland"
+        ],
+        "section-11-s": [
+          "England",
+          "Wales",
+          "England and Wales",
+          "Scotland"
+        ]
+      },
+      "difference_type": "content",
+      "what_is_different": "Prohibition of certain methods of killing or taking wild animals",
+      "why_is_different": "Different statutory provisions for Scotland",
+      "description": "Section 11 in the UK prohibits certain methods of killing or taking wild animals, while Section 11-s in Scotland includes additional provisions for the use of snares and other methods.",
+      "territory_texts": {
+        "England": "11 Prohibition of certain methods of killing or taking wild animals. (1) Subject to the provisions of this Part, if any person— (a) sets in position otherwise than in Wales any self-locking snare which is of such a nature and so placed as to be calculated to cause bodily injury to any wild animal coming into contact therewith; (b) uses otherwise than in Wales for the purpose of killing or taking any wild animal any self-locking snare, whether or not of such a nature or so placed as aforesaid, any bow or cross-bow or any explosive other than ammunition for a firearm; . . . (ba) sets in position in Wales any snare, or other cable restraint, which is of such a nature and so placed as to be likely to cause bodily injury to any wild animal coming into contact with it; (bb) uses in Wales for the purpose of killing or taking any wild animal any snare, or other cable restraint, whether or not of such a nature or so placed as aforesaid; (bc) sets in position in Wales any glue trap which is of such a nature and so placed as to be likely to catch any animal coming into contact with it; (bd) uses in Wales for the purpose of killing or taking any animal any glue trap, whether or not of such a nature or so placed as aforesaid; (be) uses in Wales for the purpose of killing or taking any wild animal any bow or cross-bow or any explosive other than ammunition for a firearm; (c) uses as a decoy, for the purpose of killing or taking any wild animal, any live mammal or bird whatever, ; or (d) knowingly causes or permits to be done an act which is mentioned in the foregoing provisions of this section, he shall be guilty of an offence. (2) Subject to the provisions of this Part, a person shall be guilty of an offence if that person— (a) uses , otherwise than in Wales, any trap or snare , or in Wales, any trap other than a glue trap, for the purpose of killing or taking or restraining any wild animal included in Schedule 6 or 6ZA; (b) sets in position , otherwise than in Wales, any trap or snare , or in Wales, any trap other than a glue trap, of such a nature and so placed as to be— (i) in England ..., calculated to cause bodily injury to any wild animal included in Schedule 6 or 6ZA; (ii) in Scotland or Wales , likely to cause bodily injury to any such wild animal; (c) sets in position any electrical device for killing or stunning, or any poisonous, poisoned or stupefying substance, of such a nature and so placed as to be— (i) in England ..., calculated to cause bodily injury to any wild animal included in Schedule 6; (ii) in Scotland or Wales , likely to cause bodily injury to any such wild animal; (d) uses for the purpose of killing or taking any wild animal included in Schedule 6— (i) any electrical device for killing or stunning; (ii) any poisonous, poisoned or stupefying substance; (iii) any net; (iv) any automatic or semi-automatic weapon; (v) any device for illuminating a target or sighting device for night shooting; (vi) any form of artificial light or any mirror or other dazzling device; (vii) any gas or smoke not falling within sub-paragraph (ii); (viii) any sound recording used as a decoy; or (ix) any mechanically propelled vehicle in immediate pursuit of any such animal; (e) uses any mechanically propelled vehicle for the purpose of driving any wild animal included in Schedule 6; or (f) knowingly causes or permits to be done an act mentioned in paragraphs (a) to (e). (3) Subject to the provisions of this Part, if any person— (a) sets in position or knowingly causes or permits to be set in position , otherwise than in Wales, any snare which is of such a nature and so placed as to be calculated to cause bodily injury to any wild animal coming into contact therewith; and (b) while the snare remains in position fails, without reasonable excuse, to inspect it, or cause it to be inspected, at least once every day, he shall be guilty of an offence. (4) The Secretary of State may, for the purpose of complying with an international obligation, by order, either generally or in relation to any kind of wild animal specified in the order, amend subsection (1) or (2) by adding any method of killing or taking wild animals or by omitting any such method as is mentioned in that subsection. (5) In any proceedings for an offence under subsection (1)(b) (ba), (bb) or (c) or (2)(a), (d) or (e) , and in any proceedings for an offence under subsection (1)(d) or (2)(f) relating to an act which is mentioned in any of those paragraphs the animal in question shall be presumed to have been a wild animal unless the contrary is shown. (6) In any proceedings for an offence under subsection (2)(b) or (c) it shall be a defence to show that the article was set in position by the accused for the purpose of killing or taking, in the interests of public health, agriculture, forestry, fisheries or nature conservation, any wild animals which could be lawfully killed or taken by those means and that he took all reasonable precautions to prevent injury thereby to any wild animals included in the relevant Schedule . (7) In any proceedings for an offence under subsection (2)(f) relating to an act which is mentioned in subsection (2)(b) or (c) it shall be a defence to show that the article was set in position for the purpose of killing or taking, in the interests of public health, agriculture, forestry, fisheries or nature conservation, any wild animals which could be lawfully killed or taken by those means and that he took or caused to be taken all reasonable precautions to prevent injury thereby to any wild animals included in the relevant Schedule . (7ZA) For the purposes of paragraphs (bc) and (bd) of subsection (1), “animal means a vertebrate (other than a human). (7A) In subsections (6) and (7), “the relevant Schedule” means— (a) where proceedings relate to an offence under subsection (2)(b), Schedule 6 or 6ZA; (b) where proceedings relate to an offence under subsection (2)(c), Schedule 6.",
+        "Scotland": "11 Prohibition of certain methods of killing or taking wild animals. (1) Subject to the provisions of this Part, if any person— (ab) sets in position or otherwise uses a snare for the purpose of killing any animal other than a wild bird, (ac) sets in position or otherwise uses a snare, other than a snare that is operated by hand, for the purpose of taking any animal other than a wild bird, (ad) uses a snare which is of a nature or is placed (or both) so as to be likely to cause bodily injury to any animal (other than a wild bird) coming into contact with it, (b) uses for the purpose of killing or taking any animal , any bow or cross-bow or any explosive other than ammunition for a firearm; . . . (c) uses as a decoy, for the purpose of killing or taking any wild animal, any live mammal or bird whatever, ; or (d) knowingly causes or permits to be done an act which is mentioned in the foregoing provisions of this section, he shall be guilty of an offence. (1A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (2) Subject to the provisions of this Part, a person shall be guilty of an offence if that person— (a) uses any trap ... for the purpose of killing or taking or restraining any wild animal included in Schedule 6 or 6ZA; (aa) uses a snare for the purpose of killing any wild animal included in Schedule 6 or 6ZA, (ab) uses a snare, other than a snare that is operated by hand, for the purpose of taking or restraining any wild animal included in Schedule 6 or 6ZA, (b) sets in position any trap or snare of such a nature and so placed as to be— (i) in England and Wales, calculated to cause bodily injury to any wild animal included in Schedule 6 or 6ZA; (ii) in Scotland, likely to cause bodily injury to any such wild animal; (c) sets in position any electrical device for killing or stunning, or any poisonous, poisoned or stupefying substance, of such a nature and so placed as to be— (i) in England and Wales, calculated to cause bodily injury to any wild animal included in Schedule 6; (ii) in Scotland, likely to cause bodily injury to any such wild animal; (d) uses for the purpose of killing or taking any wild animal included in Schedule 6— (i) any electrical device for killing or stunning; (ii) any poisonous, poisoned or stupefying substance; (iii) any net; (iv) any automatic or semi-automatic weapon; (v) any device for illuminating a target or sighting device for night shooting; (vi) any form of artificial light or any mirror or other dazzling device; (vii) any gas or smoke not falling within sub-paragraph (ii); (viii) any sound recording used as a decoy; or (ix) any mechanically propelled vehicle in immediate pursuit of any such animal; (e) uses any mechanically propelled vehicle for the purpose of driving any wild animal included in Schedule 6; or (f) knowingly causes or permits to be done an act mentioned in paragraphs (a) to (e). (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (3A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (3B) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (3C) Subject to the provisions of this Part, any person who— (a) is, without reasonable excuse, in possession of; or (b) sells, or offers or exposes for sale, a snare which is capable of operating as a self-locking snare or a snare of any other type specified in regulations under subsection (3CA) shall be guilty of an offence. (3CA) The Scottish Ministers may by regulations specify types of snare for the purpose of subsection (3C). (3D) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (3E) Subject to the provisions of this Part, any person who uses a snare otherwise than in accordance with such requirements as may be specified in an order made by the Scottish Ministers, or who knowingly causes or permits any other person to do so, shall be guilty of an offence. (4) The Secretary of State may, for the purpose of complying with an international obligation, by order, either generally or in relation to any kind of wild animal specified in the order, amend subsection (1) or (2) by adding any method of killing or taking wild animals or by omitting any such method as is mentioned in that subsection. (4A) The Scottish Ministers may by order specify— (a) criteria which articles of a type referred to in subsections (1) to (3E) must meet to be treated as articles of that type for the purposes of those subsections, (b) circumstances in which articles of that type are to be treated as having been set or used in a manner which constitutes an offence under those subsections. (5) In any proceedings for an offence under subsection (1)(c) or (2)(a), (d) or (e) , and in any proceedings for an offence under subsection (1)(d) or (2)(f) relating to an act which is mentioned in any of those paragraphs the animal in question shall be presumed to have been a wild animal unless the contrary is shown. (6) In any proceedings for an offence under subsection (2)(b) or (c) it shall be a defence to show that the article was set in position by the accused for the purpose of killing or taking, in the interests of public health, agriculture, forestry, fisheries or nature conservation, any wild animals which could be lawfully killed or taken by those means and that he took all reasonable precautions to prevent injury thereby to any wild animals included in the relevant Schedule . (7) In any proceedings for an offence under subsection (2)(f) relating to an act which is mentioned in subsection (2)(b) or (c) it shall be a defence to show that the article was set in position for the purpose of killing or taking, in the interests of public health, agriculture, forestry, fisheries or nature conservation, any wild animals which could be lawfully killed or taken by those means and that he took or caused to be taken all reasonable precautions to prevent injury thereby to any wild animals included in the relevant Schedule . (7A) In subsections (6) and (7), “the relevant Schedule” means— (a) where proceedings relate to an offence under subsection (2)(b), Schedule 6 or 6ZA; (b) where proceedings relate to an offence under subsection (2)(c), Schedule 6."
+      }
+    }
+  ],
+  "other_sections": [
+    {
+      "type_id": "other_001",
+      "provisions": {
+        "section-9-s": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides protection for certain wild animals in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_002",
+      "provisions": {
+        "section-10": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides exceptions to section 9 and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_003",
+      "provisions": {
+        "section-10A": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides protection for wild hares in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_004",
+      "provisions": {
+        "section-14AB": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section addresses contravention of emergency measures in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_005",
+      "provisions": {
+        "section-16": [
+          "England",
+          "Wales",
+          "Northern Ireland",
+          "Scotland"
+        ],
+        "section-16-s": [
+          "Northern Ireland",
+          "England",
+          "Wales",
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides the power to grant licences and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_006",
+      "provisions": {
+        "section-16AB": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides appeals relating to section 16AA licences in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_007",
+      "provisions": {
+        "section-18A": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section defines wildlife inspectors in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_008",
+      "provisions": {
+        "section-19": [
+          "Scotland"
+        ],
+        "section-19-s": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides enforcement provisions in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_009",
+      "provisions": {
+        "section-19ZC": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section defines wildlife inspectors in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_010",
+      "provisions": {
+        "section-19ZD": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides the power to take samples in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_011",
+      "provisions": {
+        "section-19A": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides evidence provisions in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_012",
+      "provisions": {
+        "section-25": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section defines the functions of local authorities in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_013",
+      "provisions": {
+        "section-26": [
+          "England",
+          "Wales",
+          "England and Wales",
+          "Scotland"
+        ],
+        "section-26-s": [
+          "England",
+          "Wales",
+          "England and Wales",
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides regulations, orders, and notices and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_014",
+      "provisions": {
+        "section-27": [
+          "England",
+          "United Kingdom",
+          "Wales",
+          "Scotland"
+        ],
+        "section-27-s": [
+          "England",
+          "United Kingdom",
+          "Wales",
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides interpretation of Part I and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_015",
+      "provisions": {
+        "section-27ZA": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section applies Part 1 to England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_016",
+      "provisions": {
+        "section-27AA": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section applies sections 28 to 34 in Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_017",
+      "provisions": {
+        "section-28": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section defines sites of special scientific interest in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_018",
+      "provisions": {
+        "section-28B": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides notification of additional land in England and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_019",
+      "provisions": {
+        "section-28C": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides enlargement of SSSI in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_020",
+      "provisions": {
+        "section-28CA": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides guidance in relation to subtidal notifications of SSSIs in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_021",
+      "provisions": {
+        "section-28CB": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides the power to call in subtidal notifications in Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_022",
+      "provisions": {
+        "section-28F": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides appeals in connection with consents in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_023",
+      "provisions": {
+        "section-28G": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides a general duty for statutory undertakers in Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_024",
+      "provisions": {
+        "section-28J": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides management schemes in England and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_025",
+      "provisions": {
+        "section-28K": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides management notices in England and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_026",
+      "provisions": {
+        "section-28L": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides appeals against management notices in Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_027",
+      "provisions": {
+        "section-28P": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides offences related to SSSIs in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_028",
+      "provisions": {
+        "section-28R": [
+          "England"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides byelaws for the protection of SSSIs in England and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_029",
+      "provisions": {
+        "section-31": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides restoration following offences under section 28P in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_030",
+      "provisions": {
+        "section-32": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides duties of agriculture Ministers with respect to areas of special scientific interest in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_031",
+      "provisions": {
+        "section-34": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides limestone pavement orders in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_032",
+      "provisions": {
+        "section-34A": [
+          "England",
+          "Wales",
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section defines the meaning of 'appropriate conservation body' in England, Wales, and Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_033",
+      "provisions": {
+        "section-35": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides national nature reserves in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_034",
+      "provisions": {
+        "section-35A": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides the power to call in subtidal declarations in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_035",
+      "provisions": {
+        "section-37A": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides Ramsar sites in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_036",
+      "provisions": {
+        "section-41": [
+          "England",
+          "Wales",
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides duties of agriculture Ministers with respect to the countryside in England, Wales, and Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_037",
+      "provisions": {
+        "section-41A": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section applies sections 42 to 45 in Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_038",
+      "provisions": {
+        "section-47": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides grants to the Countryside Council for Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_039",
+      "provisions": {
+        "section-49": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section extends the power to appoint wardens in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_040",
+      "provisions": {
+        "section-50": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides payments under certain agreements offered by authorities in Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_041",
+      "provisions": {
+        "section-51": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides powers of entry in Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_042",
+      "provisions": {
+        "section-51A": [
+          "England",
+          "Wales",
+          "England and Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides summary prosecutions in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_043",
+      "provisions": {
+        "section-52": [
+          "England",
+          "Wales",
+          "England and Wales",
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides interpretation of Part II and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_044",
+      "provisions": {
+        "section-57": [
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides supplementary provisions as to definitive maps and statements in Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_045",
+      "provisions": {
+        "section-66B": [
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section applies Part 1 to the Crown in Scotland and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_046",
+      "provisions": {
+        "section-70B": [
+          "England",
+          "Wales"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides the effect of failure to serve certain notices in England and Wales and explicitly states its territorial extent."
+    },
+    {
+      "type_id": "other_047",
+      "provisions": {
+        "section-74": [
+          "Northern Ireland",
+          "Scotland"
+        ]
+      },
+      "category": "explicit_extent_clause",
+      "description": "This section provides the short title, commencement, and extent of the Act and explicitly states its territorial extent."
+    }
+  ]
+}
