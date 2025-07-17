@@ -17,8 +17,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data and results
-/data/
-/results/
+# /data/
+# /results/
 *.xlsx
 *.json
 *.log

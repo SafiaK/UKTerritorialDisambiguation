@@ -1,0 +1,295 @@
+=== TERRITORIAL LLM VERIFIER METHOD 2 EVALUATION ===
+Main Directory: Wildlife and Countryside Act 1981
+Timestamp: 2025-07-13 14:28:16
+LLM Output Path: data/legislation_sections/Wildlife and Countryside Act 1981/llm_territorial_differences_method2.json
+Input Sections Path: data/legislation_sections/Wildlife and Countryside Act 1981/territorial_sections_for_llm.json
+================================================================================
+Starting Method 2 LLM Output Verification...
+Input sections: 57
+Territorial differences groups: 3
+Other sections groups: 47
+
+1. Verifying Coverage...
+Coverage: 57/57 points (100.0%)
+
+2. Verifying Section-Territory Mappings...
+Mappings: 57/57 points (100.0%)
+
+3. Verifying Text Extraction...
+Text Extraction: 6/6 points (100.0%)
+
+================================================================================
+TERRITORIAL LLM VERIFIER METHOD 2 - FINAL REPORT
+================================================================================
+Total Input Sections: 57
+Overall Score: 120/120 (100.0%)
+Status: PASSED
+
+Coverage: 100.0%
+Mapping Accuracy: 100.0%
+Text Extraction: 100.0%
+
+================================================================================
+Evaluation completed for directory: Wildlife and Countryside Act 1981
+Results saved to: results/results.txt
+================================================================================
+
+4. Writing detailed Excel report to results/method2_verification_report.xlsx...
+Excel report saved: results/method2_verification_report.xlsx
+================================================================================
+=== TERRITORIAL LLM VERIFIER METHOD 2 EVALUATION ===
+Main Directory: Education Act 2005
+Timestamp: 2025-07-13 15:38:47
+LLM Output Path: data/legislation_sections/Education Act 2005/llm_territorial_differences_method2.json
+Input Sections Path: data/legislation_sections/Education Act 2005/territorial_sections_for_llm.json
+================================================================================
+Starting Method 2 LLM Output Verification...
+Input sections: 45
+Territorial differences groups: 3
+Other sections groups: 3
+
+1. Verifying Coverage...
+Coverage: 45/45 points (100.0%)
+
+2. Verifying Section-Territory Mappings...
+Mappings: 42/45 points (93.33%)
+
+3. Verifying Text Extraction...
+Text Extraction: 8/8 points (100.0%)
+
+================================================================================
+TERRITORIAL LLM VERIFIER METHOD 2 - FINAL REPORT
+================================================================================
+Total Input Sections: 45
+Overall Score: 95/98 (96.94%)
+Status: PASSED
+
+Coverage: 100.0%
+Mapping Accuracy: 93.33%
+Text Extraction: 100.0%
+
+Issues Found: 3
+  - MEDIUM: Section section-59: Expected territories ['Wales', 'England'], got ['Wales']
+  - MEDIUM: Section section-62: Expected territories ['Wales', 'England'], got ['Wales']
+  - MEDIUM: Section section-126: Expected territories ['Wales', 'England'], got ['Wales']
+
+================================================================================
+Evaluation completed for directory: Education Act 2005
+Results saved to: results/results.txt
+================================================================================
+
+4. Writing detailed Excel report to results/method2_verification_report.xlsx...
+Excel report saved: results/method2_verification_report.xlsx
+================================================================================
+=== TERRITORIAL LLM VERIFIER METHOD 2 EVALUATION ===
+Main Directory: Housing (Wales) Act 2014
+Timestamp: 2025-07-13 15:39:07
+LLM Output Path: data/legislation_sections/Housing (Wales) Act 2014/llm_territorial_differences_method2.json
+Input Sections Path: data/legislation_sections/Housing (Wales) Act 2014/territorial_sections_for_llm.json
+================================================================================
+Starting Method 2 LLM Output Verification...
+Input sections: 32
+Territorial differences groups: 1
+Other sections groups: 1
+
+1. Verifying Coverage...
+Coverage: 31/32 points (96.88%)
+
+2. Verifying Section-Territory Mappings...
+Mappings: 31/31 points (100.0%)
+
+3. Verifying Text Extraction...
+Text Extraction: 2/2 points (100.0%)
+
+================================================================================
+TERRITORIAL LLM VERIFIER METHOD 2 - FINAL REPORT
+================================================================================
+Total Input Sections: 32
+Overall Score: 64/65 (98.46%)
+Status: PASSED
+
+Coverage: 96.88%
+Mapping Accuracy: 100.0%
+Text Extraction: 100.0%
+
+Issues Found: 1
+  - HIGH: Missing sections: ['section-71']
+
+================================================================================
+Evaluation completed for directory: Housing (Wales) Act 2014
+Results saved to: results/results.txt
+================================================================================
+
+4. Writing detailed Excel report to results/method2_verification_report.xlsx...
+Excel report saved: results/method2_verification_report.xlsx
+================================================================================
+=== TERRITORIAL LLM VERIFIER METHOD 2 EVALUATION ===
+Main Directory: Housing and Planning Act 2016
+Timestamp: 2025-07-13 15:39:41
+LLM Output Path: data/legislation_sections/Housing and Planning Act 2016/llm_territorial_differences_method2.json
+Input Sections Path: data/legislation_sections/Housing and Planning Act 2016/territorial_sections_for_llm.json
+================================================================================
+Starting Method 2 LLM Output Verification...
+Input sections: 71
+Territorial differences groups: 3
+Other sections groups: 1
+
+1. Verifying Coverage...
+Coverage: 63/71 points (88.73%)
+
+2. Verifying Section-Territory Mappings...
+Mappings: 63/63 points (100.0%)
+
+3. Verifying Text Extraction...
+Text Extraction: 6/6 points (100.0%)
+
+================================================================================
+TERRITORIAL LLM VERIFIER METHOD 2 - FINAL REPORT
+================================================================================
+Total Input Sections: 71
+Overall Score: 132/140 (94.29%)
+Status: PASSED
+
+Coverage: 88.73%
+Mapping Accuracy: 100.0%
+Text Extraction: 100.0%
+
+Issues Found: 1
+  - HIGH: Missing sections: ['section-132', 'section-56', 'section-50', 'section-116', 'section-175', 'section-61', 'section-119', 'section-117']
+
+================================================================================
+Evaluation completed for directory: Housing and Planning Act 2016
+Results saved to: results/results.txt
+================================================================================
+
+4. Writing detailed Excel report to results/method2_verification_report.xlsx...
+Excel report saved: results/method2_verification_report.xlsx
+================================================================================
+=== TERRITORIAL LLM VERIFIER METHOD 2 EVALUATION ===
+Main Directory: Housing and Regeneration Act 2008
+Timestamp: 2025-07-13 15:39:51
+LLM Output Path: data/legislation_sections/Housing and Regeneration Act 2008/llm_territorial_differences_method2.json
+Input Sections Path: data/legislation_sections/Housing and Regeneration Act 2008/territorial_sections_for_llm.json
+================================================================================
+Starting Method 2 LLM Output Verification...
+Input sections: 35
+Territorial differences groups: 2
+Other sections groups: 6
+
+1. Verifying Coverage...
+Coverage: 20/35 points (57.14%)
+
+2. Verifying Section-Territory Mappings...
+Mappings: 20/20 points (100.0%)
+
+3. Verifying Text Extraction...
+Text Extraction: 5/5 points (100.0%)
+
+================================================================================
+TERRITORIAL LLM VERIFIER METHOD 2 - FINAL REPORT
+================================================================================
+Total Input Sections: 35
+Overall Score: 45/60 (75.0%)
+Status: NEEDS_REVIEW
+
+Coverage: 57.14%
+Mapping Accuracy: 100.0%
+Text Extraction: 100.0%
+
+Issues Found: 1
+  - HIGH: Missing sections: ['section-275', 'section-120', 'section-309', 'section-296', 'section-180', 'section-302', 'section-324', 'section-298', 'section-297', 'section-131', 'section-294', 'section-292', 'section-63', 'section-79', 'section-266']
+
+================================================================================
+Evaluation completed for directory: Housing and Regeneration Act 2008
+Results saved to: results/results.txt
+================================================================================
+
+4. Writing detailed Excel report to results/method2_verification_report.xlsx...
+Excel report saved: results/method2_verification_report.xlsx
+================================================================================
+=== TERRITORIAL LLM VERIFIER METHOD 2 EVALUATION ===
+Main Directory: Social Housing (Regulation) Act 2023
+Timestamp: 2025-07-13 15:40:06
+LLM Output Path: data/legislation_sections/Social Housing (Regulation) Act 2023/llm_territorial_differences_method2.json
+Input Sections Path: data/legislation_sections/Social Housing (Regulation) Act 2023/territorial_sections_for_llm.json
+================================================================================
+Starting Method 2 LLM Output Verification...
+Input sections: 5
+Territorial differences groups: 0
+Other sections groups: 5
+
+1. Verifying Coverage...
+Coverage: 5/5 points (100.0%)
+
+2. Verifying Section-Territory Mappings...
+Mappings: 5/5 points (100.0%)
+
+3. Verifying Text Extraction...
+Text Extraction: 0/0 points (0%)
+
+================================================================================
+TERRITORIAL LLM VERIFIER METHOD 2 - FINAL REPORT
+================================================================================
+Total Input Sections: 5
+Overall Score: 10/10 (100.0%)
+Status: PASSED
+
+Coverage: 100.0%
+Mapping Accuracy: 100.0%
+Text Extraction: 0%
+
+================================================================================
+Evaluation completed for directory: Social Housing (Regulation) Act 2023
+Results saved to: results/results.txt
+================================================================================
+
+4. Writing detailed Excel report to results/method2_verification_report.xlsx...
+Excel report saved: results/method2_verification_report.xlsx
+================================================================================
+=== TERRITORIAL LLM VERIFIER METHOD 2 EVALUATION ===
+Main Directory: Housing and Regeneration Act 2008
+Timestamp: 2025-07-14 06:10:51
+LLM Output Path: data/legislation_sections/Housing and Regeneration Act 2008/llm_territorial_differences_method2.json
+Input Sections Path: data/legislation_sections/Housing and Regeneration Act 2008/territorial_sections_for_llm.json
+================================================================================
+Starting Method 2 LLM Output Verification...
+Input sections: 35
+Territorial differences groups: 2
+Other sections groups: 6
+
+1. Verifying Coverage...
+Coverage: 32/35 points (91.43%)
+
+2. Verifying Section-Territory Mappings...
+Mappings: 34/34 points (100.0%)
+
+3. Verifying Text Extraction...
+Text Extraction: 5/5 points (100.0%)
+
+================================================================================
+TERRITORIAL LLM VERIFIER METHOD 2 - FINAL REPORT
+================================================================================
+Total Input Sections: 35
+Overall Score: 71/74 (95.95%)
+Status: PASSED
+
+Coverage: 91.43%
+Mapping Accuracy: 100.0%
+Text Extraction: 100.0%
+
+Issues Found: 2
+  - HIGH: Missing sections: ['section-63', 'section-131', 'section-120']
+  - HIGH: Duplicate sections: ['section-313', 'section-320']
+
+================================================================================
+Evaluation completed for directory: Housing and Regeneration Act 2008
+Results saved to: results/results.txt
+================================================================================
+
+4. Writing detailed Excel report to results/method2_verification_report.xlsx...
+Excel report saved: results/method2_verification_report.xlsx
+================================================================================
+=== TERRITORIAL LLM VERIFIER METHOD 2 EVALUATION ===
+Main Directory: Housing and Regeneration Act 2008
+Timestamp: 2025-07-14 06:15:36
+

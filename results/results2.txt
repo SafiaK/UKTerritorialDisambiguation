@@ -1,0 +1,39 @@
+================================================================================
+=== TERRITORIAL LLM VERIFIER METHOD 2 EVALUATION ===
+Main Directory: Education Act 2002
+Timestamp: 2025-07-17 13:28:48
+LLM Output Path: data/legislation_sections/Education Act 2002/llm_territorial_differences_method2.json
+Input Sections Path: data/legislation_sections/Education Act 2002/territorial_sections_for_llm.json
+================================================================================
+Starting Method 2 LLM Output Verification...
+Input sections: 116
+Territorial differences groups: 6
+Other sections groups: 1
+
+1. Verifying Coverage...
+Coverage: 114/116 points (98.28%)
+
+2. Verifying Section-Territory Mappings...
+Mappings: 114/114 points (100.0%)
+
+3. Verifying Text Extraction...
+Text Extraction: 12/12 points (100.0%)
+
+================================================================================
+TERRITORIAL LLM VERIFIER METHOD 2 - FINAL REPORT
+================================================================================
+Total Input Sections: 116
+Overall Score: 240/242 (99.17%)
+Status: PASSED
+
+Coverage: 98.28%
+Mapping Accuracy: 100.0%
+Text Extraction: 100.0%
+
+Issues Found: 1
+  - HIGH: Missing sections: ['section-7', 'section-11']
+
+================================================================================
+Evaluation completed for directory: Education Act 2002
+Results saved to: results/results2.txt
+================================================================================
